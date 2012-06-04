@@ -25,6 +25,7 @@ Chef Cookbooks and Start Repo
 Want to install Java or Ruby On Rails?  The AAF cookbooks contain recipes for many of the common tasks a modern web applications requires.  These cookbooks are integrated into the Cloud Formation templates or can be used in isolation.  
 
 https://github.com/live-community/chef-repo
+
 https://github.com/live-community/cookbooks
 
 Tools
