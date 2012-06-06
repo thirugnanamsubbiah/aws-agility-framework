@@ -15,18 +15,18 @@ This includes:
 Cloud Formation Templates
 -------------------------
 
-Cloud Formation is a service which allows engineers to define AWS resources and relationships as JSON templates.  The AAF project provides a repository of common templates which can be used to rapidly stand up common applications within AWS.
+The easiest way to get started is to build a Cloud Formation Stack from one of our templates.  The AAF Cloud Formation Templates Repo provide templates to create common application stacks within AWS.
 
 [Cloud Formation Templates](https://github.com/live-community/cloud_formation_templates)
 
 Chef Cookbooks and Starter Repo
 -----------------------------
 
-Want to install Java or Ruby On Rails?  The AAF cookbooks contain recipes for many of the common tasks a modern web applications requires.  These cookbooks are integrated into the Cloud Formation templates or can be used in isolation.  
-
-[Chef Starter Repo](https://github.com/live-community/chef-repo)
+Want to install Java or Ruby?  The AAF cookbooks contain recipes for many of the common applications.  These cookbooks are integrated into the Cloud Formation templates or can be used in isolation.  
 
 [Cookbooks](https://github.com/live-community/cookbooks)
+
+[Chef Starter Repo](https://github.com/live-community/chef-repo)
 
 Tools
 -----
@@ -36,10 +36,6 @@ We are currently in the process of development stack management tools.  Stay tun
 More Information
 ----------------
 
-AWS Cloud Formation
+[AWS Cloud Formation](http://aws.amazon.com/cloudformation)
 
-http://aws.amazon.com/cloudformation
-
-Chef:
-
-http://opscode.com/chef
+[Chef](http://opscode.com/chef)
