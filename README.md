@@ -17,7 +17,7 @@ Cloud Formation Templates
 
 Cloud Formation is a service which allows engineers to define AWS resources and relationships as JSON templates.  The AAF project provides a repository of common templates which can be used to rapidly stand up common applications within AWS.
 
-https://github.com/live-community/cloud_formation_templates
+[Cloud Fomration Templates](https://github.com/live-community/cloud_formation_templates)
 
 Chef Cookbooks and Starter Repo
 -----------------------------
