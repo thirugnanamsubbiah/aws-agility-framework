@@ -4,7 +4,7 @@ Intuit AWS Agility Framework
 What is it?
 -----------
 
-The Intuit AWS Agility Framework (AAF) is a colleciton of templates, configuraiton management recipes and tools which have been tightly integrated to allow an engineer to rapidly provision RHEL instances into an AWS account.  
+The Intuit AWS Agility Framework (AAF) is a colleciton of open source templates, configuraiton management recipes and tools which have been integrated to allow to rapid provisioning of AWS resources and RHEL instances.
 
 This includes:
 
