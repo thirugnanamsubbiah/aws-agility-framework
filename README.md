@@ -31,7 +31,7 @@ Want to install Java or Ruby?  The AAF cookbooks contain recipes for many of the
 Tools
 -----
 
-We are currently in the process of development stack management tools.  Stay tuned for more information.
+We are currently in the process of developing a collection of management tools.  Stay tuned for more information.
 
 More Information
 ----------------
