@@ -15,4 +15,4 @@ This includes:
 Getting Started
 ---------------
 
-Please see [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki) for full documentation.
+Please see the [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki) for full documentation.
