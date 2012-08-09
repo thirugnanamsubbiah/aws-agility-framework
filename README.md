@@ -4,13 +4,12 @@ Intuit AWS Agility Framework
 What is it?
 -----------
 
-The Intuit AWS Agility Framework (AAF) is a colleciton of open source templates, configuraiton management recipes and tools which have been integrated to allow to rapid provisioning of AWS resources and RHEL instances.
+The Intuit AWS Agility Framework (AAF) is a colleciton of open source templates and configuraiton management recipes which have been integrated to allow to rapid provisioning of AWS resources and RHEL instances.
 
 This includes:
 
 * Cloud Formation Templates
 * Chef Cookbooks and Starter Repo
-* Tools
 
 Getting Started
 ---------------
@@ -32,11 +31,6 @@ Want to install Java or Ruby?  The AAF cookbooks contain recipes for many of the
 [Cookbooks](https://github.com/live-community/cookbooks)
 
 [Chef Starter Repo](https://github.com/live-community/chef-repo)
-
-Tools
------
-
-We are currently in the process of developing a collection of management tools.  Stay tuned for more information.
 
 More Information
 ----------------
