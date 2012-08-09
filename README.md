@@ -10,31 +10,9 @@ This includes:
 
 * Cloud Formation Templates
 * Chef Cookbooks and Starter Repo
+* Home Grown Build & Deploy Tools
 
 Getting Started
 ---------------
 
-The [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki/Getting-Started) has detailed directions for getting started with an Intuit AMI and the latest approved Cookbooks.
-
-Cloud Formation Templates
--------------------------
-
-The easiest way to get started is to build a Cloud Formation Stack from one of our templates.  The AAF Cloud Formation Templates Repo provide templates to create common application stacks within AWS.
-
-[Cloud Formation Templates](https://github.com/live-community/cloud_formation_templates)
-
-Chef Cookbooks and Starter Repo
------------------------------
-
-Want to install Java or Ruby?  The AAF cookbooks contain recipes for many of the common applications.  These cookbooks are integrated into the Cloud Formation templates or can be used in isolation.  
-
-[Cookbooks](https://github.com/live-community/cookbooks)
-
-[Chef Starter Repo](https://github.com/live-community/chef-repo)
-
-More Information
-----------------
-
-[AWS Cloud Formation](http://aws.amazon.com/cloudformation)
-
-[Chef](http://opscode.com/chef)
+Please see [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki) for full documentation.
