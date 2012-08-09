@@ -12,6 +12,11 @@ This includes:
 * Chef Cookbooks and Starter Repo
 * Tools
 
+Getting Started
+---------------
+
+The [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki) has detailed directions for getting a starter instance online with an Intuit AMI and the latest approved Cookbooks.
+
 Cloud Formation Templates
 -------------------------
 
