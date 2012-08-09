@@ -15,7 +15,7 @@ This includes:
 Getting Started
 ---------------
 
-The [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki) has detailed directions for getting a starter instance online with an Intuit AMI and the latest approved Cookbooks.
+The [AWS Agility Framework Wiki](https://github.com/live-community/aws-agility-framework/wiki/Getting-Started) has detailed directions for getting started with an Intuit AMI and the latest approved Cookbooks.
 
 Cloud Formation Templates
 -------------------------
